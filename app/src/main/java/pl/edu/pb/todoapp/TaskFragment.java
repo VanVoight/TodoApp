@@ -57,7 +57,7 @@ public class TaskFragment extends Fragment {
 
             @Override
             public void onTextChanged(CharSequence s, int start, int before, int count) {
-                task.setName(toString());
+                task.setName(s.toString());
             }
 
             @Override

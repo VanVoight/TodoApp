@@ -12,8 +12,10 @@ public class Task {
         id = UUID.randomUUID();
         date = new Date();
     }
-
-    public void setName(String toString) {
+    public String getName(){
+        return name;
+    }
+    public void setName(String name) {
         this.name=name;
     }
 
@@ -25,12 +27,10 @@ public class Task {
         return done;
     }
 
-    public void setDone(boolean isChecked) {
+    public void setDone(boolean done) {
         this.done = done;
     }
-    public String getName(){
-        return name;
-    }
+
     public UUID getId(){
         return id;
     }
