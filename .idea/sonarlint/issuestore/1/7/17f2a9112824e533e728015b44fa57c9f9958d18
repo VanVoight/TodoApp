@@ -1,0 +1,13 @@
+
+„
+java:S4165"bRemove this useless assignment; "done" already holds the assigned value along all execution paths.(‚Õ„³ûÿÿÿÿ8ÔÚÎ§¹1
+„
+java:S4165"bRemove this useless assignment; "name" already holds the assigned value along all execution paths.(É´“ıÿÿÿÿ8ò¶Ì§¹1
+L
+java:S1172"/Remove this unused method parameter "toString".(«ƒå8ü¶Ì§¹1
+R
+java:S1172"0Remove this unused method parameter "isChecked".(Ì£Ë’üÿÿÿÿ8ŞÚÎ§¹1
+Q
+java:S1656"/Remove or correct this useless self-assignment.(É´“ıÿÿÿÿ8àÚÎ§¹1
+Q
+java:S1656"/Remove or correct this useless self-assignment.(‚Õ„³ûÿÿÿÿ8ş¶Ì§¹1
